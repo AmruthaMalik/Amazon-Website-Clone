@@ -45,11 +45,13 @@ While building this project, I improved my skills in:
 
 ## Demo
 Watch the live demo video of the project:  
-[![Amazon Clone Demo](images/video-thumbnail.png)](path-to-your-video.mp4)  
+[![Amazon Clone Demo](/Images/1.png)](https://drive.google.com/drive/u/0/folders/1dhLopJJpENPH51mdBium-_iBWTok3f2X)  
 
 **Screenshots:**  
-![Screenshot 1](images/screenshot1.png)  
-![Screenshot 2](images/screenshot2.png)  
+![Screenshot 1](/Images/1.png)  
+![Screenshot 2](/Images/2.png) 
+![Screenshot 1](/Images/3.png)  
+![Screenshot 2](/Images/4.png)  
 
 ---
 
